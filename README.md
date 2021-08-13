@@ -2,7 +2,7 @@
 
 # 个人博客地址
 
-[https://yexiaofan.github.io/yexiu.github.io/](https://yexiaofan.github.io/yexiu.github.io/)
+<a href="https://yexiaofan.github.io/yexiu.github.io/" target="_blank">https://yexiaofan.github.io/yexiu.github.io/</a>
 
 # 前端学习todo
 
