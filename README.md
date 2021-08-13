@@ -9,4 +9,4 @@
 1. husky + lint-staged工具使用
 2. cypress
 
-  * 资料1: [https://www.cnblogs.com/poloyy/p/12992659.html](https://www.cnblogs.com/poloyy/p/12992659.html)
+   * 资料1: [https://www.cnblogs.com/poloyy/p/12992659.html](https://www.cnblogs.com/poloyy/p/12992659.html)
