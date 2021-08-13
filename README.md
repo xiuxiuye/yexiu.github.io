@@ -1,4 +1,9 @@
 # yexiu.github.io
-前端学习笔记
+
+# 个人博客地址
+
+[https://yexiaofan.github.io/yexiu.github.io/](https://yexiaofan.github.io/yexiu.github.io/)
+
+# 前端学习todo
 
 1. husky + lint-staged工具使用
