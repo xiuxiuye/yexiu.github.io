@@ -3,7 +3,7 @@
 # 个人学习博客地址
 
 [https://yexiaofan.github.io/yexiu.github.io/](https://yexiaofan.github.io/yexiu.github.io/)
-<a href="https://www.baidu.com">baidu</a>
+<a href="https://www.baidu.com" target="_blank">baidu</a>
 
 # 前端学习todo
 
