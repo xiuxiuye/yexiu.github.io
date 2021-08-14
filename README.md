@@ -7,7 +7,9 @@
 # 前端学习todo list
 
 VuePress学习
+
 husky + lint-staged工具学习
+
 cypress学习
 
    * 官网文档: [https://docs.cypress.io/guides/overview/why-cypress](https://docs.cypress.io/guides/overview/why-cypress)
