@@ -6,9 +6,11 @@
 
 # 前端学习todo list
 
-1. husky + lint-staged工具使用
-2. cypress
+VuePress学习
+husky + lint-staged工具学习
+cypress学习
 
-   * 资料1: [https://www.cnblogs.com/poloyy/p/12992659.html](https://www.cnblogs.com/poloyy/p/12992659.html)
+   * 官网文档: [https://docs.cypress.io/guides/overview/why-cypress](https://docs.cypress.io/guides/overview/why-cypress)
+   * 中文资料1: [https://www.cnblogs.com/poloyy/p/12992659.html](https://www.cnblogs.com/poloyy/p/12992659.html)
  
-~~3. [css module教程](https://www.ruanyifeng.com/blog/2016/06/css_modules.html)~~
+~~[css module教程](https://www.ruanyifeng.com/blog/2016/06/css_modules.html)~~
