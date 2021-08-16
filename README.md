@@ -6,6 +6,10 @@
 
 # 前端学习todo list
 
+阮一峰前端教程
+
+- [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
+
 VuePress学习
 
 husky + lint-staged工具学习
