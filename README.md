@@ -6,6 +6,8 @@
 
 # 前端学习todo list
 
+[TypeScript体操练习](https://github.com/type-challenges/type-challenges/blob/master/README.zh-CN.md)
+
 阮一峰前端教程
 
 - [npm scripts 使用指南](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
