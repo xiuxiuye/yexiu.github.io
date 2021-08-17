@@ -15,7 +15,7 @@ VuePress学习
 
 husky + lint-staged工具学习
 
-[jest单元测试](https://www.jestjs.cn/docs/getting-started)
+[jest单元测试](https://jestjs.io/zh-Hans/docs/getting-started)
 
 ~~cypress学习~~
 
